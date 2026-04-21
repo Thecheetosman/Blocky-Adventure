@@ -21,7 +21,7 @@ A text-based, procedural exploration and survival game built entirely in HTML5 a
 
 ## 🛠️ Installation & Development
 Since this is a portable web game, there is no installation required. To run it locally:
-1. Clone this repository: `git clone https://github.com/thecheetosman/blocky-adventure.git`
+1. Clone this repository: `git clone https://github.com/YOUR-USERNAME/blocky-adventure.git`
 2. Open `index.html` in any modern web browser.
 
 ## 📄 License
