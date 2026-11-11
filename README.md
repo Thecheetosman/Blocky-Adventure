@@ -27,10 +27,10 @@ Since this is a portable web game, there is no installation required. To run it 
 ## 📄 License
 This project is licensed under the **MIT License**. 
 
-Copyright (c) 2026 Caleb Taylor. 
+Copyright (c) 2026 Thecheetosman
 
 You are free to use, modify, and distribute this software as long as the original copyright notice is included. See the [LICENSE](LICENSE) file for more details.
 
 ---
-*Created by Caleb Taylor (@Thecheetosman)*
+*Created by (@Thecheetosman)*
 
